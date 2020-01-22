@@ -1,0 +1,36 @@
+invalid
+did not receive
+reset
+failure
+bad
+does not map back
+failed
+failed none
+ignoring
+disconnect
+refused
+dispatch_protocol_error
+corrupted
+error
+not in sudoers
+not acceptable
+unable
+illegal
+last message repeated
+fatal
+fail
+couldn't lookup
+killed
+stopping
+no service
+does not support
+unmanaged
+no servers
+no dhcpoffers
+no working
+can't create
+not well known
+can't remove
+no longer
+no such process
+POSSIBLE BREAK-IN ATTEMPT

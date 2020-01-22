@@ -1,0 +1,27 @@
+device
+map file
+memory
+port
+aux port
+lapic
+Hyper-Threading
+pme#
+link
+pci Interrupt Link
+IO window
+netlink socket
+pci
+acpi_pm_good
+cpu Hotplug
+sense
+read CAPACITY
+association
+operation
+write Protect
+driver
+motherboard
+acpi bus
+CPU MTRRs
+boot CPU
+wep key
+i/o

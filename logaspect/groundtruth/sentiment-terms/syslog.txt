@@ -1,0 +1,62 @@
+cannot find
+disable
+could not be reserved
+invalid
+not available
+no dock
+not detected
+failed
+not permitted
+not enabled
+unregistered
+no plug
+incorrect
+is off
+doesn't support
+deleted
+stolen
+not detected
+no ps/2
+killed
+could not associate
+unable to
+removed
+can't init
+dropping
+deactivating
+not running
+no service
+stopping
+error
+disappeared
+stopped
+does not support
+not well known
+unmanaged
+no ipv6
+no devices
+strange
+weird
+no ibft
+can't remove
+can't create
+wrong
+warning!
+is not ready
+no servers
+no dhcpoffers
+no working
+was disconnected
+not well known
+promiscuous mode
+no test
+not supported
+miss
+disabling
+no longer relevant
+didn't pass
+no such process
+false
+aborting
+not after
+can't use

@@ -1,0 +1,21 @@
+memory
+port
+aux port
+lapic
+Hyper-Threading
+pme#
+pci Interrupt Link
+IO window
+netlink socket
+pci
+acpi_pm_good
+ps/2
+map file
+cpu Hotplug
+link
+acpi bus
+motherboard
+device
+write Protect
+CPU MTRRs
+boot CPU

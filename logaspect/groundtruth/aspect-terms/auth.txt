@@ -1,0 +1,18 @@
+user
+identification string
+peer
+protocol version
+password
+max retries
+pam_tty
+login
+mac
+authentication
+new password
+su
+username
+device
+x11 initialization
+connection
+dbus-launch
+component setting

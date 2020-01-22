@@ -1,0 +1,30 @@
+ps/2
+memory
+port
+aux port
+lapic
+Hyper-Threading
+pme#
+pci Interrupt Link
+IO window
+netlink socket
+pci
+acpi_pm_good
+map file
+cpu Hotplug
+sense
+write Protect
+read CAPACITY
+association
+flash database
+kernel logging
+routers
+i/o
+buffer I/O
+acpi bus
+motherboard
+device
+write Protect
+CPU MTRRs
+boot CPU
+wep key
